@@ -2,8 +2,8 @@
 title: 'Locations Used'
 date: '2009-08-06T16:58:29+10:00'
 author: cjd
-excerpt: '<h3>Churches</h3><ul><li><a href="http://www.erinabap.org.au/">Erina Community Baptist Church</a>: Gosford NSW, Australia</li> <li><a href="http://www.gracecbc.com/">Grace Community Baptist Church</a>: Wamberal NSW, Australi</li> <li>Capilano Christian Assembly: Edmonton Alberta, Canada</li> <li><a href="http://www.richmondnewlife.org.nz">Richmond New Life Church</a>: Richmond, Nelson, New Zealand</li> <li><a href="http://www.mosgielchurch.org.nz">Mosgiel North Taieri Presbyterian</a>: Mosgiel, Otago, New Zealand</li><li>Lifestream Christian Fellowship, Canberra, Australia</li><li> Ridgeview C'
 layout: page
+url: /locations
 menu:
   main:
     name: Locations Used

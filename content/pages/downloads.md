@@ -3,6 +3,7 @@ title: Downloads
 date: '2009-07-28T18:31:35+10:00'
 author: cjd
 layout: page
+url: /downloads
 menu:
   main:
     name: Downloads

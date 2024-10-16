@@ -3,6 +3,7 @@ title: Documentation
 date: '2009-07-29T01:13:51+10:00'
 author: cjd
 layout: page
+url: /documentation
 menu:
   main:
     name: Documentation

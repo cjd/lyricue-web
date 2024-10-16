@@ -4,6 +4,7 @@ title: Contact
 date: '2009-07-28T18:43:14+10:00'
 author: oldadmin
 layout: page
+url: /contact
 menu:
   main:
     name: Contact

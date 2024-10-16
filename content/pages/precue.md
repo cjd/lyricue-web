@@ -3,6 +3,7 @@ title: Precue
 date: '2009-07-30T22:12:19+10:00'
 author: cjd
 layout: page
+url: /precue
 menu:
   main:
     name: Precue

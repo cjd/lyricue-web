@@ -3,6 +3,7 @@ title: Features
 date: '2009-07-28T17:26:54+10:00'
 author: cjd
 layout: page
+url: /features
 menu:
   main:
     name: Features
