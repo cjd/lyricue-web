@@ -1,3 +1,4 @@
+publishDir: /home/cjd/Sync/Website/lyricue/
 baseURL: /
 languageCode: en-AU
 title: Lyricue - The GNU Lyric Display System
@@ -31,13 +32,12 @@ params:
     title: false
   style:
     vars:
-      highlightColor: "#8888FF"
+      highlightColor: "#FF8888"
   sidebar:
     home: right
     list: left
     single: false
     widgets:
-      - search
       - taglist
       - recent
   assets:

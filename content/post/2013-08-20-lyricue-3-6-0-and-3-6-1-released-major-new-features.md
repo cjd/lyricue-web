@@ -6,7 +6,7 @@ categories:
 date: "2013-08-20T10:45:03Z"
 guid: http://www.lyricue.org/?p=333
 id: 333
-title: Lyricue 3.6.0 (and 3.6.1) released &#8211; major new features!
+title: Lyricue 3.6.0 (and 3.6.1) released - major new features!
 url: /2013/08/20/lyricue-3-6-0-and-3-6-1-released-major-new-features/
 ---
 
