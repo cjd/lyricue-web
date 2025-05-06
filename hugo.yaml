@@ -1,5 +1,5 @@
 publishDir: /home/cjd/Sync/Website/lyricue/
-baseURL: https://www.lyricue.org/
+baseURL: https://lyricue.org/
 languageCode: en-AU
 title: Lyricue - The GNU Lyric Display System
 theme: mainroad
